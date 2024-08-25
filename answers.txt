@@ -1,0 +1,39 @@
+Version control is a system or toool which keeps track of changes to files over time.Some key features are branches, pulling, merging and conflicts.
+Github is important in collaboration hosting of repositories, social networks with other programmers and collaboration.
+
+
+To create a new repository on github, ;ogin to your account, click on your repositroy, then new. Some of the
+decisions one will need to make is whether the repository will be public or private, its licensing and so on. Its good 
+practise to add a read me file.
+
+The read me file explains what the repositroy is about, what it aims to achieve, its collaborators and so on. 
+It helps in collaboration in hat the strucuture and purpose of the repositry is clearly defined , reducing confusion.
+
+
+Firstly, some private repository futures have to be paid for on Github, which is a disadvantage. For public repositories, 
+there is always a security threat since its open source to everyone and anyone. Other than that, for collaborators
+private repositories are advantagious, but it comes with limited access, someone out there may be able to improve
+upon your code if only you made the repository public!
+
+
+To commit is to save the chages you made to a local file to a remote file on github. Its simple, assumoing you have already cloned the repository,
+click on source control , add a comment , and select commit. Once you commit, you will be able to see all the changes, 
+when those changes were made and even comment on those changes. This is why commit is such a key feature in Github.
+
+
+Branching is important in collaboration as it allows a programmer to work on and edit code from the main branch.
+
+Pull requests basically take a remote file, and allow you to work on it from your local device.Merging 
+is combining all the changes into a remote file.This is very convinient.
+
+Forking is useful in contributing to Open Source Projects: Fork the project to make changes and propose
+improvements without affecting the original repository. With cloning , you can actually make changes to
+a repository by commiting your changes.
+
+Issues and project boards on GitHub are powerful tools for tracking bugs, managing tasks, and improving 
+project organization. They facilitate collaboration by providing a structured way to discuss, prioritize,
+and monitor progress on various aspects of a project.
+
+Some common challenges Github users face is probably navigating Github. From branches to connecting local to
+remote repositories, github can be challenging to navigate for the latest user. It takes time to learn about branches,
+sub branches and other lingo used.
